@@ -1,0 +1,282 @@
+[
+  {
+    "id": "q1_fever_cough",
+    "question_en": "I have fever and cough. What should I do?",
+    "answer_en": "If you have fever and cough: isolate from others if possible, wear a mask, keep hydrated, monitor symptoms. Call or visit the nearest health facility if you have difficulty breathing, chest pain, confusion, or if you are elderly or have chronic disease. Follow MoHS advice and testing pathways as available.",
+    "answer_kr": "If yu get fever an cough, stay separate from oda pipul, put on mask, drink plenty water. If yu noh breth good, get chest pain or get real weak, go clinic urgent. Call ya clinic if possible.",
+    "source": "MoHS standard guidance / STG"
+  },
+  {
+    "id": "q2_diarrhoea_ors",
+    "question_en": "My child has diarrhea. How do I treat at home?",
+    "answer_en": "Give oral rehydration solution (ORS) frequently, continue feeding, offer zinc for 10–14 days in children under 5, and watch for signs of dehydration (sunken eyes, not urinating, very sleepy). Seek immediate care for severe dehydration, bloody stools, or if the child cannot drink. Report to the local health facility if clustered cases occur.",
+    "answer_kr": "Gi pikin ORS regular. Mek shu di pikin dae eat small small an gi zinc for 10–14 days. If di pikin get sunken eye, no pass urine, or dae sleep too much, go clinic quick.",
+    "source": "IDSR / MoHS diarrhoea guidance"
+  },
+  {
+    "id": "q3_malaria_fever",
+    "question_en": "Fever and chills — could it be malaria?",
+    "answer_en": "Malaria commonly presents with fever, chills, headache and can be tested with a rapid diagnostic test (RDT). If you suspect malaria, go to the nearest health facility for testing and treatment. For severe signs (confusion, repeated vomiting, inability to eat, difficulty breathing), go immediately to hospital.",
+    "answer_kr": "Malaria get fever, chills an headache. Go clinic for RDT test an start treatment if di test positive. If yu get danger sign like confusion, keep vomiting, or noh able to drink, go hospital now.",
+    "source": "STG / MoHS malaria protocols"
+  },
+  {
+    "id": "q4_oral_rehydration",
+    "question_en": "How to prepare ORS at home?",
+    "answer_en": "Use a ready-to-use ORS sachet mixed with the exact amount of clean water as instructed on the packet. If sachets are unavailable, prepare sugar-salt solution: 1 litre clean water + 6 level teaspoons sugar + 1/2 teaspoon salt. Do NOT give undiluted fruit juices or soda as replacements.",
+    "answer_kr": "Uze ORS sachet an mix wit di amount water for de packet. If noh sachet, mix 1 litre water + 6 teaspoon sugar + 1/2 teaspoon salt. No gi pure juice or soft drink for replace.",
+    "source": "IDSR / MoHS WASH guidance"
+  },
+  {
+    "id": "q5_vaccination_child",
+    "question_en": "Which vaccinations do children need?",
+    "answer_en": "Follow the national childhood immunisation schedule (BCG, OPV/Polio, Pentavalent, Pneumococcal, Rotavirus, Measles, Yellow Fever where applicable). Check with your local clinic for the exact schedule and catch-up options.",
+    "answer_kr": "Pikin dem need di national immunisation shots like BCG, Polio, Pentavalent, Pneumococcal, Rotavirus, Measles. Go ya local clinic for di schedule.",
+    "source": "MoHS immunisation program"
+  },
+  {
+    "id": "q6_covid_mild",
+    "question_en": "If I test positive for COVID-19 but feel mild, what should I do?",
+    "answer_en": "Isolate at home, rest, drink fluids, monitor symptoms. Wear a mask around others and avoid visiting high-risk people. Seek urgent care if you develop difficulty breathing, persistent chest pain, confusion, or blue lips/face.",
+    "answer_kr": "If yu test positive an feel mild, stay for yu yuself, rest an drink water. Use mask if yu go near oda people. If yu noh breth good or get chest pain, go clinic urgent.",
+    "source": "MoHS COVID-19 guidance"
+  },
+  {
+    "id": "q7_pregnancy_anc",
+    "question_en": "When should I start antenatal visits?",
+    "answer_en": "Start antenatal care as early as possible in pregnancy (ideally in the first trimester). Attend the recommended visits for monitoring maternal and fetal health, vaccinations, supplements (iron/folate), and birth planning.",
+    "answer_kr": "Start antenatal visit early as yu know say yu pregnant (best for first 3 month). Go clinic for checkups, iron/folate and plan for birth.",
+    "source": "MoHS NPHCO handbook"
+  },
+  {
+    "id": "q8_maternal_red_flags",
+    "question_en": "What are danger signs in pregnancy?",
+    "answer_en": "Danger signs: heavy vaginal bleeding, severe abdominal pain, severe headache or blurred vision, high fever, leaking fluid, reduced fetal movements. If any occur, go to the nearest health facility immediately.",
+    "answer_kr": "Danger signs: heavy bleeding from womb, bad belly pain, strong headache or cannot see well, high fever, water leak, pikin mov less. If yu get any, go clinic now.",
+    "source": "NPHCO handbook / MoHS"
+  },
+  {
+    "id": "q9_breastfeeding",
+    "question_en": "Can I breastfeed if I have a fever or cough?",
+    "answer_en": "Yes — in most routine infections mothers should continue breastfeeding while following hygiene (handwashing, mask if coughing). If there is a serious infection and clinical guidance advises separation, follow facility recommendations.",
+    "answer_kr": "Yes. Continue to breastfeed but wash hands well an wear mask if yu cough. If clinic say yu must separate, follow di clinic advice.",
+    "source": "MoHS breastfeeding guidance"
+  },
+  {
+    "id": "q10_child_convulsion",
+    "question_en": "My child had a convulsion (seizure). What do I do?",
+    "answer_en": "Keep the child safe: place on side, clear nearby objects, do NOT put anything in the mouth, seek immediate medical care. Record duration and any injuries, and inform the health worker.",
+    "answer_kr": "Put pikin pan di side, remove sharp things, noh put anyting ina mouth. Go clinic or hospital quick. Tell di nurse how long di convulsion last.",
+    "source": "STG / emergency care guidance"
+  },
+  {
+    "id": "q11_tb_symptoms",
+    "question_en": "What are symptoms of tuberculosis (TB)?",
+    "answer_en": "TB commonly causes a cough lasting two weeks or more, night sweats, weight loss, fever and chest pain. If you have these symptoms, visit the nearest facility for testing and referral.",
+    "answer_kr": "TB get cough wey last two week or more, sweat for night, weight loss, fever, chest pain. Go clinic for test if yu get dis.",
+    "source": "MoHS / STG TB section"
+  },
+  {
+    "id": "q12_hiv_testing",
+    "question_en": "Where can I get an HIV test and how is it done?",
+    "answer_en": "HIV tests are offered at health facilities and selected community sites. Testing is usually with rapid tests (finger-prick) with pre- and post-test counselling. Ask your local clinic for availability and confidentiality options.",
+    "answer_kr": "HIV test de fo clinic an some community sites. Dem do finger-prick rapid test an give counselling before and after. Ask ya clinic.",
+    "source": "MoHS HIV programme"
+  },
+  {
+    "id": "q13_sti_symptoms",
+    "question_en": "How do I recognize an STI and where to go?",
+    "answer_en": "STI symptoms may include genital discharge, pain or sores. Visit a health facility or sexual health clinic for testing and treatment. Avoid self-medication with leftover antibiotics; seek clinician guidance.",
+    "answer_kr": "STI get discharge from private part, pain or sore. Go clinic for test an treatment. No use old antibiotics by yourself.",
+    "source": "STG / MoHS sexual health guidance"
+  },
+  {
+    "id": "q14_antibiotics_use",
+    "question_en": "Should I take antibiotics for fever?",
+    "answer_en": "Do not take antibiotics unless a clinician prescribes them. Many fevers are viral and do not need antibiotics. Misuse increases resistance. See a health worker for assessment and proper treatment.",
+    "answer_kr": "Only tek antibiotic if doctor give am. Plenty fever na virus an antibiotics no work. Wrong use fit make bacteria get resistance.",
+    "source": "STG / antimicrobial stewardship"
+  },
+  {
+    "id": "q15_headache_migraine",
+    "question_en": "What home care helps with headache?",
+    "answer_en": "Rest, hydrate, avoid bright light, take paracetamol if appropriate, and seek care if headache is sudden and severe, accompanied by fever, neck stiffness, weakness, or confusion.",
+    "answer_kr": "Rest, drink water, avoid bright light, tek paracetamol if e ok for you. If headache start sudden and bad or with fever and weakness, go clinic.",
+    "source": "STG"
+  },
+  {
+    "id": "q16_first_aid_burn",
+    "question_en": "How do I first-aid a minor burn?",
+    "answer_en": "Cool the burn under running clean water for 20 minutes, remove tight items, cover with sterile dressing, and seek care if burn is large, deep, or on face/hands/genitals.",
+    "answer_kr": "Run clean water ova di burn for 20 minute, remove ring or tight cloth, cover with clean dressing. If big or deep or on face/hands/genitals, go hospital.",
+    "source": "STG first aid"
+  },
+  {
+    "id": "q17_rabies_bite",
+    "question_en": "I was bitten by a dog. What should I do?",
+    "answer_en": "Wash the wound with soap and water for at least 15 minutes, seek urgent care for wound cleaning and rabies vaccination where indicated. Report animal bites to the local health authority.",
+    "answer_kr": "Wash di wound proper wit soap an water for 15 minute, go clinic quick for wound care an rabies vaccine if needed. Tell di health office.",
+    "source": "MoHS / WHO bite guidance"
+  },
+  {
+    "id": "q18_cholera_symptoms",
+    "question_en": "What are cholera symptoms and immediate actions?",
+    "answer_en": "Cholera causes sudden severe watery diarrhea and vomiting — risk of rapid dehydration. Give ORS, seek urgent facility care, and report clustered cases to local health authorities for outbreak response.",
+    "answer_kr": "Cholera cause bad watery diarrhoea an vomiting. Gi ORS and go clinic urgent. If many people get sick, tell di local health people.",
+    "source": "IDSR / MoHS surveillance"
+  },
+  {
+    "id": "q19_measles_symptoms",
+    "question_en": "What are signs of measles?",
+    "answer_en": "Fever, cough, runny nose, red eyes, and a spreading rash. Measles can be serious in children; seek care and check immunisation status. Isolate the patient until seen by a clinician.",
+    "answer_kr": "Fever, cough, runny nose, red eye an rash. Measles fit be serious; go clinic an check pikin immunisation.",
+    "source": "MoHS immunisation / IDSR"
+  },
+  {
+    "id": "q20_polio_info",
+    "question_en": "What is polio and how is it prevented?",
+    "answer_en": "Polio is a viral disease that can cause permanent paralysis. Prevention is with the polio vaccine (OPV/IPV) as part of routine immunisations and through outbreak vaccination campaigns.",
+    "answer_kr": "Polio na virus wey fit cause body paralyse. Prevent with polio vaccine - give as part of routine shots or special campaigns.",
+    "source": "NPHA / MoHS"
+  },
+  {
+    "id": "q21_dehydration_signs",
+    "question_en": "How to know if someone is dehydrated?",
+    "answer_en": "Signs: very thirsty, dry mouth, sunken eyes, low urine output, lethargy. In children: sunken fontanelle, dry mouth, few tears. Give ORS and seek care for severe signs.",
+    "answer_kr": "Thirsty bad, dry mouth, sunken eye, small urine, sleepy. For pikin: sunken head fontanelle, dry mouth, no tears. Gi ORS an go clinic if bad.",
+    "source": "IDSR / MoHS"
+  },
+  {
+    "id": "q22_snakebite_firstaid",
+    "question_en": "What should I do if someone is bitten by a snake?",
+    "answer_en": "Keep the person calm and still, immobilise the bitten limb, remove tight clothing/jewellery, do NOT cut or suck the wound, and transport to the nearest facility urgently for antivenom if indicated.",
+    "answer_kr": "Keep person calm an still, hold di bitten limb steady, remove tight clothes or ring, noh cut or suck di wound. Go hospital quick for antivenom if needed.",
+    "source": "STG / emergency guidance"
+  },
+  {
+    "id": "q23_mental_health_distress",
+    "question_en": "Where to get help for severe anxiety or depression?",
+    "answer_en": "Contact local mental health services, primary health clinics, or community mental health programmes. If there is an immediate risk of self-harm, seek urgent care or emergency services.",
+    "answer_kr": "Go clinic wey do mental health, or community mental health program. If yu dey think of self-harm, go emergency or call help quick.",
+    "source": "MoHS mental health program"
+  },
+  {
+    "id": "q24_antenatal_bleeding",
+    "question_en": "Bleeding in pregnancy — what to do?",
+    "answer_en": "Any bleeding in pregnancy requires immediate assessment at a health facility. Do not delay: heavy bleeding can be life-threatening for mother and fetus.",
+    "answer_kr": "Any bleeding when yu pregnant go clinic urgent. No delay.",
+    "source": "NPHCO handbook"
+  },
+  {
+    "id": "q25_child_vomiting_dehydration",
+    "question_en": "My child is vomiting and not keeping fluids—what should I do?",
+    "answer_en": "Offer small sips of ORS frequently, seek care immediately if vomiting is persistent, the child shows signs of dehydration, or is lethargic. Health facility may give IV fluids.",
+    "answer_kr": "Give small sip of ORS often. If vomiting keep on, child sleepy or show dehydration, go clinic quick. Clinic fit give IV fluid.",
+    "source": "IDSR / MoHS"
+  },
+  {
+    "id": "q26_insect_bite_prevention",
+    "question_en": "How to prevent insect bites and malaria?",
+    "answer_en": "Use insecticide-treated bed nets, clear standing water, use repellents where appropriate, and seek prompt testing & treatment for fever. Follow national malaria prevention campaigns.",
+    "answer_kr": "Use bednet wey get insecticide, clear standing water, use repellents if you fit. If fever, go test quick.",
+    "source": "MoHS malaria prevention"
+  },
+  {
+    "id": "q27_influenza_symptoms",
+    "question_en": "How is seasonal influenza different from a cold?",
+    "answer_en": "Influenza often causes sudden high fever, body aches, severe fatigue and cough, whereas a common cold is milder. Most are managed at home, but seek care for severe breathing problems or high risk patients.",
+    "answer_kr": "Flu often get sudden high fever, body pain, strong tiredness and cough. Cold weaker. If breathing bad or high risk, go clinic.",
+    "source": "MoHS respiratory guidance"
+  },
+  {
+    "id": "q28_mpox_info",
+    "question_en": "What are mpox symptoms and what to do if suspected?",
+    "answer_en": "Mpox causes fever followed by a rash and skin lesions; seek testing and isolate suspected cases. Follow MoHS/NPHA instructions for contact tracing and vaccination where recommended.",
+    "answer_kr": "Mpox get fever an den skin rash an sore. If yu suspect, isolate an go clinic for test. Follow MoHS/NPHA advice for contact tracing.",
+    "source": "NPHA press release"
+  },
+  {
+    "id": "q29_immediate_emergency_signs",
+    "question_en": "Which symptoms mean I should go to emergency now?",
+    "answer_en": "Chest pain or pressure, severe difficulty breathing, sudden weakness or numbness (especially on one side), sudden severe headache, uncontrolled bleeding, loss of consciousness, severe burns, or seizures — seek emergency care immediately.",
+    "answer_kr": "Chest pain, bad difficulty breathing, sudden weakness or numbness one side, sudden bad headache, bad bleeding, unconscious, severe burns or convulsion — go emergency now.",
+    "source": "STG emergency triage"
+  },
+  {
+    "id": "q30_handwashing_how",
+    "question_en": "How should I wash hands to prevent infections?",
+    "answer_en": "Wash hands with soap and clean running water for at least 20 seconds, rinse and dry with a clean cloth. Use alcohol-based hand rub if water is not available.",
+    "answer_kr": "Wash han wit soap an clean water for at least 20 second, rinse an dry. If noh water, use hand rub.",
+    "source": "MoHS WASH guidance"
+  },
+  {
+    "id": "q31_blood_transfusion_safety",
+    "question_en": "Is blood transfusion safe?",
+    "answer_en": "Blood transfusion is safe when done through regulated blood services that screen donors and blood for infections; ensure the facility follows national transfusion protocols.",
+    "answer_kr": "Blood transfusion safe if facility follow regulation an screen blood. Make sure clinic follow national protocol.",
+    "source": "MoHS blood safety policy"
+  },
+  {
+    "id": "q32_neonatal_fever",
+    "question_en": "My newborn has a fever. What should I do?",
+    "answer_en": "Newborns (0–28 days) with fever are at high risk; seek immediate care at a health facility. Do not attempt home remedies; babies may need urgent IV antibiotics or observation.",
+    "answer_kr": "Newborn with fever need clinic urgent. No try home remedy. Baby fit need IV antibiotic or close observation.",
+    "source": "NPHCO / STG neonatal care"
+  },
+  {
+    "id": "q33_family_planning_options",
+    "question_en": "What family planning methods are available?",
+    "answer_en": "Options include condoms, oral pills, injectables, implants, IUDs, and permanent methods; discuss benefits and side effects with your clinic to pick the best method.",
+    "answer_kr": "Condom, pill, injection, implant, IUD, or permanent methods de available. Talk to clinic about which fit you best.",
+    "source": "MoHS reproductive health program"
+  },
+  {
+    "id": "q34_food_poisoning",
+    "question_en": "What to do for suspected food poisoning?",
+    "answer_en": "If food poisoning causes severe vomiting, bloody diarrhea, or dehydration, seek urgent care. For mild cases, rest and stay hydrated; seek care if symptoms worsen.",
+    "answer_kr": "If severe vomiting, bloody diarrhoea or dehydration, go clinic quick. For mild, rest and drink water. Go clinic if worsen.",
+    "source": "STG / MoHS"
+  },
+  {
+    "id": "q35_eyes_infection",
+    "question_en": "My eyes are red and painful — what next?",
+    "answer_en": "Red painful eyes with discharge may be conjunctivitis or more serious infection. See a health worker; do not self-insert drops from others. Seek urgent care if vision is affected.",
+    "answer_kr": "Red eye with pain an discharge may be conjunctivitis. Go clinic. No use another person eye drops. If eyesight bad, go urgent.",
+    "source": "STG"
+  },
+  {
+    "id": "q36_bedwetting_child",
+    "question_en": "My child bedwets at night — is it normal?",
+    "answer_en": "Bedwetting is common in young children. Encourage regular toilet use, limit fluids at night, and talk to a clinician if it persists beyond expected age or is sudden onset.",
+    "answer_kr": "Bedwetting normal for small pikin. Encourage toilet, less drink at night. Go clinic if it keep on or start suddenly.",
+    "source": "MoHS child health guidance"
+  },
+  {
+    "id": "q37_pain_management",
+    "question_en": "Which painkillers are safe for me?",
+    "answer_en": "Paracetamol is a common first-line analgesic. Avoid NSAIDs (like ibuprofen) if you have bleeding disorders or certain conditions — check with a clinician. Follow dose instructions.",
+    "answer_kr": "Paracetamol safe for most. Be careful with ibuprofen if you get bleeding problem. Ask clinic if you have other sickness.",
+    "source": "STG pharmaceutical guidance"
+  },
+  {
+    "id": "q38_water_treatment",
+    "question_en": "How to make drinking water safe?",
+    "answer_en": "Boil water for 1 minute (at rolling boil) or use safe water filters; keep stored water covered and use clean containers. Add chlorine in emergencies following MoHS/WHO guidance.",
+    "answer_kr": "Boil water 1 minute or use clean filter. Keep water covered. Use chlorine only with proper guidance.",
+    "source": "MoHS WASH guidance"
+  },
+  {
+    "id": "q39_teen_pregnancy_support",
+    "question_en": "Where can a teenager get confidential pregnancy support?",
+    "answer_en": "Many clinics provide youth-friendly and confidential services — visit local primary health care or adolescent clinics. Hotline and community programmes may offer counselling.",
+    "answer_kr": "Clinic wey do youth friendly service fit help confidential. Go local clinic or adolescent program. Use hotline if available.",
+    "source": "MoHS adolescent health program"
+  },
+  {
+    "id": "q40_smoking_health",
+    "question_en": "How does smoking affect health?",
+    "answer_en": "Smoking increases risk of respiratory disease, cancer, heart disease and worsens outcomes for infections. Stopping smoking lowers risk — seek counselling and cessation services.",
+    "answer_kr": "Smoking increase risk for chest disease, cancer an heart disease. Stop smoking lower risk, find counselling.",
+    "source": "MoHS public health policy"
+  }
+]
